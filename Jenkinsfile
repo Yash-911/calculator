@@ -1,10 +1,6 @@
 pipeline {
     agent any
 
-    environment {
-
-    }
-
     tools {
         nodejs 'Jenkins-Node'
     }
